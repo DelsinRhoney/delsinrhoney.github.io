@@ -38,7 +38,7 @@
       "courses": [
       ]
     }
-  ],
+  ]/*,
   "work": [
     {
       "company": "UH Manoa Board of Publications",
@@ -65,7 +65,7 @@
       ]
     }
   ],
-/*  "volunteer": [
+  "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
