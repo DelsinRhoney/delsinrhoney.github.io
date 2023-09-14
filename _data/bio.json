@@ -30,6 +30,22 @@
   ],
   "education": [
     {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "2022-12-19",
+      "courses": [
+        "ASTR 111",
+        "",
+        "",
+        "",
+        "",
+        "",
+        
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
@@ -37,41 +53,41 @@
       "endDate": "Present",
       "courses": [
       ]
-    }
+    },
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
+      "company": "Ka'ana Solutions",
+      "position": "Intern",
+      "website": "https://studentcorner.io/kaana",
+      "startDate": "September 2019",
+      "endDate": "May 2020",
       "summary": "",
       "highlights": [
-        "",
+        "Set up and maintained a social media page for Unrulr",
         ""
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
+      "company": "Oceanit",
+      "position": "Intern",
+      "website": "https://www.oceanit.com/",
+      "startDate": "June 2020",
+      "endDate": "July 2020",
       "summary": "",
       "highlights": [
-        "",
+        "Worked on a team creating an AI for traffic lights",
         ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "organization": "AMVETS",
+      "website": "https://www.amvets.org/",
+      "position": "Actor in haunted house",
+      "startDate": "October 2021",
+      "endDate": "October 2022",
       "summary": "",
       "highlights": [
         "",
@@ -79,9 +95,9 @@
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
+      "organization": "Mililani Rotary Club",
+      "website": "https://mililanisunriserotary.org/",
+      "position": "Car washer",
       "startDate": "",
       "endDate": "",
       "summary": "",
