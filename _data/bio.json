@@ -118,7 +118,6 @@
       "endDate": "10-31-2022",
       "summary": "",
       "highlights": [
-        "",
         ""
       ]
     },
@@ -130,26 +129,28 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "",
-        "",
         ""
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Casualty Roleplay",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Human Domain Solutions",
+      "website": "https://www.humandomainsolutions.us/",
+      "position": "Casualty Roleplayer",
+      "startDate": "2022",
+      "endDate": "2022",
       "summary": "",
       "highlights": [
-        "",
-        "",
         ""
       ]
     }
   ],
   "awards": [
+    {
+      "title": "AS-ICT",
+      "date": "5-14-2023",
+      "awarder": "Leeward Community College",
+      "summary": ""
+    },
     {
       "title": "",
       "date": "",
