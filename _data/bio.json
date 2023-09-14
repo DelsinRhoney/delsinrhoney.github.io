@@ -10,7 +10,8 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "bloodylunatic2004", "url": "http://github.com/bloodylunatic2004" },
-      { "network": "linkedin", "username": "delsinrhoney", "url": "https://www.linkedin.com/in/delsin-rhoney-71472828b/" }    ]
+      { "network": "linkedin", "username": "delsinrhoney", "url": "https://www.linkedin.com/in/delsin-rhoney-71472828b/" }    
+    ]
   },
   "interests": [
     { "name": "Programming" },
