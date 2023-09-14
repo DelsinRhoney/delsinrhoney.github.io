@@ -42,19 +42,41 @@
         "ICS 141: Disc Math for Comp Sci I",
         "ICS 212: Program Structure",
         "ICS 241: Disc Math for Comp Sci II",
-        "MICR 130",
+        "MICR 130: General Microbiology",
         "ICS 170: WI-E-Ethics for Digital World",
-        "PHYS 170: General Physics I",
-        "",
-        "",
-        
+        "PHYS 170: General Physics I"
       ]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "Windward Community College, Kaneohe, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2022-09-01",
+      "startDate": "2017-09-01",
+      "endDate": "2022-12-19",
+      "courses": [
+        "SPAN 101: Beginning Spanish I",
+        "SPAN 102: Beginning Spanish II",
+        "ART 175: Survey of Global Art",
+        "ICS 111: Intro to Computer Science I",
+        "SPAN 201: Intermediate Spanish I",
+        "ICS 211: Intro to Computer Science II",
+        "SPAN 202: Intermediate Spanish II",
+        "CHEM 161: General Chemistry I",
+        "CHEM 161L: General Chemistry I Lab",
+        "MATH 242: Calculus II",
+        "CHEM 162: General Chemistry II",
+        "CHEM 162L: General Chemistry II Lab",
+        "ART 176: Survey of Global Art II",
+        "ECON 130: Principles of Microeconomics",
+        "HIST 284: WI-History of Hawai'i",
+        "ANTH 175: S-Polynesian Surf Culture"
+      ]
+    },
+    {
+      "institution": "University of Hawaii Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2023-05-31",
       "endDate": "Present",
       "courses": [
       ]
@@ -65,8 +87,8 @@
       "company": "Ka'ana Solutions",
       "position": "Intern",
       "website": "https://studentcorner.io/kaana",
-      "startDate": "September 2019",
-      "endDate": "May 2020",
+      "startDate": "9-1-2019",
+      "endDate": "5-13-2020",
       "summary": "",
       "highlights": [
         "Set up and maintained a social media page for Unrulr",
@@ -77,8 +99,8 @@
       "company": "Oceanit",
       "position": "Intern",
       "website": "https://www.oceanit.com/",
-      "startDate": "June 2020",
-      "endDate": "July 2020",
+      "startDate": "6-29-2020",
+      "endDate": "7-21-2020",
       "summary": "",
       "highlights": [
         "Worked on a team creating an AI for traffic lights",
@@ -91,8 +113,8 @@
       "organization": "AMVETS",
       "website": "https://www.amvets.org/",
       "position": "Actor in haunted house",
-      "startDate": "October 2021",
-      "endDate": "October 2022",
+      "startDate": "9-27-2021",
+      "endDate": "10-31-2022",
       "summary": "",
       "highlights": [
         "",
@@ -103,6 +125,18 @@
       "organization": "Mililani Rotary Club",
       "website": "https://mililanisunriserotary.org/",
       "position": "Car washer",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+      "organization": "",
+      "website": "",
+      "position": "Casualty Roleplay",
       "startDate": "",
       "endDate": "",
       "summary": "",
