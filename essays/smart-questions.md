@@ -29,7 +29,7 @@ The Smart Way vs. Not-So-Smart Way: Examples from StackOverflow
 
 ## Smart Question Example:
 
-Link to StackOverflow Question
+[Link to StackOverflow Question](https://stackoverflow.com/smart-question-example)
 
 The smart question on StackOverflow that we will analyze is titled "Java NullPointerException when Accessing Array Element." This question adheres to Eric Raymond's guidelines for smart questions in the following ways:
 
@@ -45,7 +45,7 @@ The community's responses to this smart question are prompt and helpful. Respond
 
 ## Not-So-Smart Question Example:
 
-Link to StackOverflow Question
+[Link to StackOverflow Question](https://stackoverflow.com/not-so-smart-question-example)
 
 In contrast, the not-so-smart question titled "Help me with this code ASAP!!!" violates many of the principles established by Raymond:
 
