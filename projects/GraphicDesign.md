@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/graphicdesign.jpg
+image: img/graphic-design.jpg
 title: "Lego fighting robot"
 date: 12-09-2021
 published: true
