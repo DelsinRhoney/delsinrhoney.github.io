@@ -5,11 +5,11 @@
     "picture": "https://github.com/bloodylunatic2004.png",
     "email": "drhoney@hawaii.edu",
     "phone": "808-255-3594",
-    "website": "https://bloodylunatic2004.github.io",
+    "website": "https://delsinrhoney.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "bloodylunatic2004", "url": "http://github.com/bloodylunatic2004" },
+      { "network": "github", "username": "delsinrhoney", "url": "http://github.com/delsinrhoney" },
       { "network": "linkedin", "username": "delsinrhoney", "url": "https://www.linkedin.com/in/delsin-rhoney-71472828b/" }    
     ]
   },
