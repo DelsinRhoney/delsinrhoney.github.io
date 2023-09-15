@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/lumbris-square.png
 title: "Lumbris"
-date: 2014
+date: 03-13-2023
 published: true
 labels:
   - Lisp
@@ -23,4 +23,4 @@ Lumbris is a 2D Metroidvania-esque game I contributed to creating by utilizing m
 
 <hr>
 
-Source: <a href="https://uhmanoagamedev.itch.io/lumbris"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://uhmanoagamedev.itch.io/lumbris"><i class="large github icon "></i>uhmanoagamedev.itch.io/lumbris</a>
