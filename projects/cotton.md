@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/lumbris-square.png
 title: "Lumbris"
 date: 2014
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A metroidvania game created for a Game Jam."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/lumbris-header.png">
 
 Lumbris is a 2D Metroidvania-esque game I contributed to creating by utilizing my artistic talents to create sprites and concept art for the characters.
 
