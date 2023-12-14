@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My experience in ICS 314 with Software Engineering"
+title: "My Experience in ICS 314 with Software Engineering"
 ## All dates must be YYYY-MM-DD format!
 date: 2023-12-13
 published: true
