@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lumbris-square.png
+image: img/uhm-clubhouse-logo.png
 title: "UHM Clubhouse"
 date: 12-11-2023
 published: true
