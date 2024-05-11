@@ -12,19 +12,16 @@ labels:
 
 ### Introduction
 
-My journey through ICS 414 this semester has been enlightening, challenging, and immensely rewarding.  I embarked on an enriching academic endeavor that not only enhanced my understanding of core software engineering concepts but also delved into the intricacies of open-source software development and the vital importance of effective team coordination, planning, and issue management.
+My journey through ICS 414 this semester has been enlightening, challenging, and immensely rewarding. The time I spent in this class not only enhanced my understanding of core software engineering concepts practiced in previous classes, but also taught me the vital importance of effective team coordination, planning, and issue management.
 
 ### Software Engineering Concepts
 
-Throughout ICS 414, I gained a comprehensive understanding of fundamental software engineering concepts. From requirements gathering to software design and testing methodologies, the course provided a solid foundation in the principles that underpin the development of robust and reliable software systems. Learning about various software development life cycle models, such as TestCafe, equipped me with the knowledge to adapt to different project requirements and contexts. Moreover, exploring topics like software architecture and design patterns broadened my perspective on building scalable and maintainable software solutions.
+In the previous semester's ICS 314 course, I was introduced to the foundational principles of software engineering, where I gained a comprehensive understanding of software development lifecycle stages, from requirements analysis to maintenance. Building upon the foundational knowledge acquired in ICS 314 last semester, I delved deeper into software engineering concepts and open-source software development in ICS 414 this semester. Through a comprehensive exploration of the software development lifecycle, from requirements analysis to testing and maintenance, I expanded my understanding of core methodologies like Agile and Waterfall, gaining insights into adaptable frameworks for project management. Additionally, the course illuminated the collaborative nature of open-source software engineering, providing opportunities to engage with platforms like GitHub and participate in communal code refinement. This journey not only enhanced my technical prowess but also fostered a mindset of continuous learning and improvement, equipping me with the skills and knowledge necessary to become a more proficient programmer.
 
 ### Team Coordination, Planning, and Issue Management
 
 Working collaboratively in teams was a crucial aspect of this course. From initial project planning to final implementation, effective coordination and communication were paramount. Through tools like Github and Discord, my team streamlined our workflow, assigning tasks, tracking progress, and addressing issues promptly. However, navigating challenges such as conflicting priorities and tight deadlines taught me valuable lessons in prioritization, negotiation, and compromise. Overall, the experience enhanced my ability to work effectively in diverse teams and manage project complexities efficiently.
 
-### Open Source Software Engineering
-
-One of the highlights of ICS 414 was the exploration of open-source software engineering. Engaging with open-source projects not only provided hands-on experience but also fostered a sense of community collaboration. Contributing to projects using React and Meteor allowed me to witness the power of collective intelligence in software development. Moreover, understanding the principles of open-source licensing and governance shed light on the democratization of technology and the ethos of sharing knowledge for the greater good.
 
 ### Conclusion
 
