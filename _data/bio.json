@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Delsin Rhoney",
+    "label": "Student",
+    "picture": "https://github.com/delsinrhoney.png",
+    "email": "drhoney@hawaii.edu",
+    "phone": "808-255-3594",
+    "website": "https://delsinrhoney.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "delsinrhoney", "url": "http://github.com/delsinrhoney" },
+      { "network": "linkedin", "username": "delsinrhoney", "url": "https://www.linkedin.com/in/delsin-rhoney-71472828b/" }    
+    ]
+  },
+  "interests": [
+    { "name": "Programming" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" },
+    {"name": "Animation"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "2022-12-19",
+      "courses": [
+        "ASTR 110: Survey of Astro",
+        "ENG 100: Composition I",
+        "MATH 241: Calculus I",
+        "ICS 141: Disc Math for Comp Sci I",
+        "ICS 212: Program Structure",
+        "ICS 241: Disc Math for Comp Sci II",
+        "MICR 130: General Microbiology",
+        "ICS 170: WI-E-Ethics for Digital World",
+        "PHYS 170: General Physics I"
+      ]
+    },
+    {
+      "institution": "Windward Community College, Kaneohe, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "2022-12-19",
+      "courses": [
+        "SPAN 101: Beginning Spanish I",
+        "SPAN 102: Beginning Spanish II",
+        "ART 175: Survey of Global Art",
+        "ICS 111: Intro to Computer Science I",
+        "SPAN 201: Intermediate Spanish I",
+        "ICS 211: Intro to Computer Science II",
+        "SPAN 202: Intermediate Spanish II",
+        "CHEM 161: General Chemistry I",
+        "CHEM 161L: General Chemistry I Lab",
+        "MATH 242: Calculus II",
+        "CHEM 162: General Chemistry II",
+        "CHEM 162L: General Chemistry II Lab",
+        "ART 176: Survey of Global Art II",
+        "ECON 130: Principles of Microeconomics",
+        "HIST 284: WI-History of Hawai'i",
+        "ANTH 175: S-Polynesian Surf Culture"
+      ]
+    },
+    {
+      "institution": "University of Hawaii Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2023-05-31",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Ka'ana Solutions",
+      "position": "Intern",
+      "website": "https://studentcorner.io/kaana",
+      "startDate": "9-1-2019",
+      "endDate": "5-13-2020",
+      "summary": "",
+      "highlights": [
+        "Set up and maintained a social media page for Unrulr"
+      ]
+    },
+    {
+      "company": "Oceanit",
+      "position": "Intern",
+      "website": "https://www.oceanit.com/",
+      "startDate": "6-29-2020",
+      "endDate": "7-21-2020",
+      "summary": "",
+      "highlights": [
+        "Worked on a team creating an AI for traffic lights"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "AMVETS",
+      "website": "https://www.amvets.org/",
+      "position": "Actor in haunted house",
+      "startDate": "9-27-2021",
+      "endDate": "10-31-2022",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Mililani Rotary Club",
+      "website": "https://mililanisunriserotary.org/",
+      "position": "Car washer",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Human Domain Solutions",
+      "website": "https://www.humandomainsolutions.us/",
+      "position": "Casualty Roleplayer",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "AS-ICT",
+      "date": "5-14-2023",
+      "awarder": "Leeward Community College",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
