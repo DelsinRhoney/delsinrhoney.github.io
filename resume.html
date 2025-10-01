@@ -6,240 +6,179 @@ layout: home
 <div style="background-color: var(--tf-blue6)" class="bg-gradient py-3">
   <div class="container">
 
-    <div class="row">
-      <div class="col">
-        <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
-      </div>
-    </div>
+<div class="row">
+  <div class="col">
+    <h1 class="display-4 text-center">Delsin Rhoney</h1>
+  </div>
+</div>
 
-    <div class="row">
-      <div class="col">
-        {% capture url %}{{ site.data.bio.basics.website }}{% endcapture %}
-        {% capture label %}{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}{% endcapture %}
-        <p class="mb-1">{% include about/social.html url=url name='house' label=label %} </p>
+<div class="row">
+  <div class="col">
+    <p class="mb-1"><a href="https://delsinrhoney.github.io"><i class="fa fa-house"></i> delsinrhoney.github.io</a></p>
 
-        {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
-        {% capture label %}{{ site.data.bio.basics.email }}{% endcapture %}
-        <p class="mb-1">{% include about/social.html url=url name='envelope' label=label %}</p>
+    <p class="mb-1"><a href="mailto:drhoney@hawaii.edu"><i class="fa fa-envelope"></i> drhoney@hawaii.edu</a></p>
 
-        {% for profile in site.data.bio.basics.profiles %}
-          {% capture url %}{{ profile.url }}{% endcapture %}
-          {% capture name %}{{ profile.network | downcase }}{% endcapture %}
-          {% capture label %}{{ profile.username }}{% endcapture %}
-          <p class="mb-1">{% include about/social.html url=url name=name label=label %}</p>
-        {% endfor %}
-      </div>
-      <div class="col">
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.address }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.phone }}</p>
-      </div>
-    </div>
+    <p class="mb-1"><a href="https://delsinrhoney.linkedin.com"><i class="fa fa-linkedin"></i> delsinrhoney</a></p>
+  </div>
+  <div class="col">
+    <p class="mb-1 text-end">Honolulu, Hawai’i USA</p>
+    <p class="mb-1 text-end">808.398.5619</p>
+  </div>
+</div>
 
-    <div class="row pt-4 align-items-center">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Interests</h1>
+<div class="row pt-4 align-items-center">
+  <div class="col-lg-3">
+    <h1 class="display-6 text-start m-0">Profile</h1>
+  </div>
+  <div class="col-lg-9">
+    <p class="m-0">Highly motivated Computer Science senior specializing in Creative Computational Media and 3D Animation, with hands-on experience in video game design, VR/AR, and interactive storytelling. Eager to contribute technical and creative expertise to a dynamic internship team in animation, game development, or interactive media, supporting character rigging, animation pipelines, and immersive digital experiences.</p>
+  </div>
+</div>
+
+<div class="row pt-4 align-items-center">
+  <div class="col-lg-3">
+    <h1 class="display-6 text-start m-0">Skills</h1>
+  </div>
+  <div class="col-lg-9">
+    <p class="m-0">
+      <b>3D Modeling/Animation:</b>
+        MAYA, BLENDER, UNREAL ENGINE, UNITY
+    </p>
+    <p class="m-0">
+      <b>Programming:</b>
+        C++, PYTHON, JAVA, JAVASCRIPT
+    </p>
+    <p class="m-0">
+      <b>Digital Media:</b>
+        GOOGLE DRAWING, GOOGLE WORKSPACE, ADOBE CREATIVE SUITE
+    </p>
+    <p class="m-0">
+      <b>Analytical:</b>
+        CREATIVE WRITING, GRAPHIC DESIGN, RESEARCH
+    </p>
+    <p class="m-0">
+      <b>Languages:</b>
+        ENGLISH (*****), SPANISH (***)
+    </p>
+  </div>
+</div>
+
+<div class="row pt-4 align-items-start">
+  <div class="col-lg-3">
+    <h1 class="display-6 text-start m-0">Education</h1>
+  </div>
+  <div class="col-lg-9">
+    <div class="row mb-3">
+      <div class="col-9">
+        <p class="m-0"><b>University of Hawai'i at Mānoa</b></p>
+        <p class="m-0">Bachelor of Science, Computer Science (Creative Computational Media Specialization)</p>
+        <ul>
+          <li>2D & 3D Animation Production (modeling, texturing, rigging, lighting, rendering)</li>
+          <li>Virtual & Augmntd Reality Programming ICS 486/ 685 (Grad)</li>
+          <li>Video Game Design and Development ICS 485/691E (Grad)</li>
+          <li>Software Techniques for Computer Visual Effects ICS 489</li>
+        </ul>
       </div>
-      <div class="col-lg-9">
-        <p class="m-0">
-          {% for entry in site.data.bio.interests %}
-          {{ entry.name }}
-          <!-- Unfortunately the following must all be on a single line so that there are no spaces before the commas. -->
-          {% if entry.keywords and entry.keywords.size > 0 %}({% for keyword in entry.keywords %}{{ keyword }}{% if forloop.last != true %},{% endif %}{% endfor %}){% endif %}{% if forloop.last != true %}, {% endif %}
-          {% endfor %}
+      <div class="col-3">
+        <p class="m-0 text-end">
+          Expected Dec 25
         </p>
       </div>
     </div>
-
-    {% if site.data.bio.skills %}
-    <div class="row pt-4 align-items-center">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Skills</h1>
+    <div class="row mb-3">
+      <div class="col-9">
+        <p class="m-0"><b>Leeward Community College</b></p>
+        <p class="m-0">Associate of Science, Computer and Information Sciences (Honors)</p>
+        <ul>
+          <li>Certificates: Video Game Design, Development, and Animation</li>
+        </ul>
       </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.skills %}
-          <p class="m-0">
-            <b>{{ entry.name }}:</b>
-              {% for keyword in entry.keywords %}
-                {{ keyword }}{% if forloop.last != true %}, {% endif %}
-              {% endfor %}
-          </p>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    {% if site.data.bio.education %}
-    <div class="row pt-4 align-items-start">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Education</h1>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.education %}
-          <div class="row mb-3">
-            <div class="col-9">
-              <p class="m-0"><b>{{ entry.institution }}</b></p>
-              <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p>
-              {% if entry.courses %}
-                <ul>
-                  {% for course in entry.courses %}
-                    <li>{{ course }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </div>
-          <div class="col-3">
-            <p class="m-0 text-end">
-              {% if entry.startDate %}
-                {{ entry.startDate | slice: 0,4 }}
-              {% endif %}
-              {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-              -
-              {% endif %}
-              {% if entry.endDate %}
-                {% if entry.endDate != "Present" %}
-                  {{ entry.endDate | slice: 0,4 }}
-                {% else %}
-                  {{ entry.endDate }}
-                {% endif %}
-              {% endif %}
-            </p>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    {% if site.data.bio.work %}
-    <div class="row pt-4 align-items-start">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Work</h1>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.work %}
-          <div class="row mb-3">
-            <div class="col-9">
-              <p class="mb-0"><b>{{ entry.position }}, {{ entry.company }}</b></p>
-              <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-              <p class="mb-0">{{ entry.summary }}</p>
-              {% if entry.highlights %}
-                <ul>
-                  {% for highlight in entry.highlights %}
-                    <li>{{ highlight }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </div>
-            <div class="col-3">
-              <p class="m-0 text-end">
-                {% if entry.startDate %}
-                  {{ entry.startDate | slice: 0,4 }}
-                {% endif %}
-                {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-                -
-                {% endif %}
-                {% if entry.endDate %}
-                {% if entry.endDate != "Present" %}
-                  {{ entry.endDate | slice: 0,4 }}
-                {% else %}
-                  {{ entry.endDate }}
-                {% endif %}
-              {% endif %}
-              </p>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    {% if site.data.bio.volunteer %}
-      <div class="row pt-4 align-items-start">
-        <div class="col-lg-3">
-          <h1 class="display-6 text-start m-0">Activities</h1>
-        </div>
-        <div class="col-lg-9">
-          {% for entry in site.data.bio.volunteer %}
-          <div class="row mb-3">
-            <div class="col-9">
-              <p class="mb-0"><b>{{ entry.position }}{% if entry.organization %}, {{ entry.organization }}{% endif %}</b></p>
-              <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-              <p class="mb-0">{{ entry.summary }}</p>
-              {% if entry.highlights %}
-                <ul>
-                {% for highlight in entry.highlights %}
-                  <li>{{ highlight }}</li>
-                {% endfor %}
-              </ul>
-              {% endif %}
-            </div>
-            <div class="col-3">
-              <p class="m-0 text-end">
-                {% if entry.startDate %}
-                  {{ entry.startDate | slice: 0,4 }}
-                {% endif %}
-                {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-                -
-                {% endif %}
-                {% if entry.endDate %}
-                  {% if entry.endDate != "Present" %}
-                    {{ entry.endDate | slice: 0,4 }}
-                  {% else %}
-                    {{ entry.endDate }}
-                  {% endif %}
-                {% endif %}
-              </p>
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    {% endif %}
-
-    {% if site.data.bio.awards %}
-    <div class="row pt-4 align-items-start">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Awards</h1>
-      </div>
-
-      <div class="col-lg-9">
-      {% for entry in site.data.bio.awards %}
-        <div class="row mb-3">
-          <div class="col-9">
-            <p class="mb-0">
-              <b>{{ entry.title }}</b>, {{ entry.awarder }}
-            </p>
-            <p class="mb-0">{{ entry.summary }}</p>
-          </div>
-          <div class="col-3">
-            <p class="m-0 text-end">
-              {{ entry.date}}
-            </p>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    {% if site.data.bio.references %}
-    <div class="row pt-4 align-items-center">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">References</h1>
-      </div>
-
-      <div class="col-lg-9">
-        <p class="m-0">
-          {% for entry in site.data.bio.references %}
-            {{ entry.name }}
-            {% if entry.reference and entry.reference.size > 0 %}
-              <em>{{ entry.reference }}</em>
-            {% endif %}
-          {% endfor %}
+      <div class="col-3">
+        <p class="m-0 text-end">
+          Dec 22
         </p>
       </div>
     </div>
+    <div class="row mb-3">
+      <div class="col-9">
+        <p class="m-0"><b>Hawai'i Technology Academy</b></p>
+        <p class="m-0">High School Diploma, Graduated Summa Cum Laude</p>
+        <p class="m-0">Weighted Cumulative GPA: 4.28</p>
+      </div>
+      <div class="col-3">
+        <p class="m-0 text-end">
+          May 22
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row pt-4 align-items-start">
+  <div class="col-lg-3">
+    <h1 class="display-6 text-start m-0">Work</h1>
+  </div>
+  <div class="col-lg-9">
+    <div class="row mb-3">
+      <div class="col-9">
+        <p class="mb-0"><b>Window Automation Tech (Summer), SOLAR SHADING SOLUTIONS, Wahiawa, HI</b></p>
+        <ul>
+          <li>Developed and optimized pricing lists for services and parts.</li>
+          <li>Troubleshot and maintained motors and equipment for optimal performance.</li>
+          <li>Handled office tasks, including data input, and documentation.</li>
+        </ul>
+      </div>
+      <div class="col-3">
+        <p class="m-0 text-end">
+          Jul - Aug 25
+        </p>
+      </div>
+    </div>
+    <div class="row mb-3">
+      <div class="col-9">
+        <p class="mb-0"><b>Intern, Oceanit, Waipahu, HI</b></p>
+        <ul>
+          <li>Collaborated with R&D teams to prototype interactive media simulations and support computational tool development for creative media.</li>
+          <li>Enhanced 3D graphics and animation skills applied to figure rigging for immersive environments.</li>
+        </ul>
+      </div>
+      <div class="col-3">
+        <p class="m-0 text-end">
+          Aug 21 – May 22
+        </p>
+      </div>
+    </div>
+    <div class="row mb-3">
+      <div class="col-9">
+        <p class="mb-0"><b>Intern, Kaana Solutions, Waipahu, HI</b></p>
+        <ul>
+          <li>Developed and managed social media content, utilizing Unreal Engine for animated stories and interactive prototypes.</li>
+          <li>Contributed to rendering, cinematography, and 2D/3D animation production, supporting project pipelines similar to industry standards in figure animation.</li>
+        </ul>
+      </div>
+      <div class="col-3">
+        <p class="m-0 text-end">
+          Aug 19 – May 20
+        </p>
+      </div>
+    </div>
+    <div class="row mb-3">
+      <div class="col-9">
+        <p class="mb-0"><b>Office Assistant (Summer), YMCA Camp Erdman, Waialua, HI</b></p>
+        <ul>
+          <li>Supported administrative duties, including organizing and filing camp records.</li>
+          <li>Assembled office and camp furniture.</li>
+        </ul>
+      </div>
+      <div class="col-3">
+        <p class="m-0 text-end">
+          Jun - Jul 25
+        </p>
+      </div>
+    </div>
+  </div>
+</div>  </div>
+</div>
     {% endif %}
   </div>
 </div>
